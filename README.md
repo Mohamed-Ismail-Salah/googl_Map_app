@@ -6,11 +6,16 @@ This Flutter mobile app demonstrates a simple Google Maps integration, allowing 
 
 ## Features
 
-- Display a Google Map: The app displays a fully interactive Google Map interface, providing users with familiar map controls and the ability to zoom and pan.
+- **Display a Google Map:** The app displays a fully interactive Google Map interface, providing users with familiar map controls and the ability to zoom and pan.
 
-- Markers: You can easily add custom markers to the map to indicate specific points of interest or locations.
+- **Markers:** You can easily add custom markers to the map to indicate specific points of interest or locations.
 
-- Customization: The app's codebase is structured in a way that allows for easy customization of the map's appearance, marker styles, and interactions.
+- **Customization:** The app's codebase is structured in a way that allows for easy customization of the map's appearance, marker styles, and interactions.
 
-- Integration-friendly: This app is designed to be integrated into larger Flutter applications seamlessly, allowing you to incorporate maps into your project without starting from scratch.
- 
+- **Integration-friendly:** This app is designed to be integrated into larger Flutter applications seamlessly, allowing you to incorporate maps into your project without starting from scratch.
+
+## Screenshots
+
+![Screenshot 1](screenshot1.png) ![Screenshot 2](screenshot2.png) ![Screenshot 3](screenshot3.png) ![Screenshot 4](screenshot4.png)
+
+## Getting Started
