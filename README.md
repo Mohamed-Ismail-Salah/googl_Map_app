@@ -33,9 +33,9 @@ This Flutter mobile app demonstrates a simple Google Maps integration, allowing 
   </tr>
 </table>
 
-## Getting Started
+ 
 
-<!-- The rest of your content remains the same -->
+ 
 
 
 
